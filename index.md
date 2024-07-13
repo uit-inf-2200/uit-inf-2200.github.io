@@ -2,26 +2,31 @@
 layout: default
 ---
 
+# INF-2200 *Computer Architecture and Organization*
+
 ## Administrative information
 
-Administrative course information is available [here](https://uit.no/utdanning/emner/emne/805804/inf-2200).
+Administrative course information is available [here](https://uit.no/utdanning/emner/emne/842290/inf-2200).
 
 We use the course Discord for discussions and to send important information. You will find the invite link in Canvas.
 
 The github organization for this course is: [github.com/uit-inf-2200/](https://github.com/uit-inf-2200)
 
-The Timeplan for the course is [here](https://timeplan.uit.no/emne_timeplan.php?sem=23h&module=INF-2200-1#week=33-52)
+The Timeplan for the course is [here](https://tp.educloud.no/uit/timeplan/timeplan.php?id%5B%5D=INF-2200%2C1&type=course&sem=24h&campus=&hide_old=1)
 
 **Staff:**
-* Lars Ailo Bongo <lars.ailo.bongo@uit.no> (Lecturer, Course responsible)
-* Vi Tran <vi.tran@uit.no> (Lecturer)
-* Øyvind Arne Moen Nohr (Teaching assistant groups 1 and 2)
-* Jørgen Kiil Olsen  (Teaching assistant group 3)
-* Ragnhild Abel Grape (Teaching assistant group 4)
+* Vi Ngoc-Nha Tran (VNNT) <vi.tran@uit.no> (Lecturer, Course responsible)
+* Hoai Phuong Ha (PHH) <phuong.hoai.ha@uit.no> (Lecturer)
+* Øyvind Arne Moen Nohr (ØAMN) <oyvind.a.nohr@uit.no> (Lecturer)
+* (Teaching assistant) Room 
+* (Teaching assistant) Room
+* (Teaching assistant) Room
+* (Teaching assistant) Room
+* (Teaching assistant) Room 
 
 **Cheating**
 
-As a student at UiT, you are obliged to familiarize yourself with the current rules that apply to the use of aids during exams, as well as rules for source use and citation. In the case of violation of these rules, you may be suspected of cheating, or attempt at cheating. Cheating on an exam is considered a violation of academic integrity. Academic integrity(honesty) is about being clear in relation to which thoughts/reflection and work are one's own, and which are taken from other's work. Cheating is punishable by cancellation of exams and/or exclusion from university.
+As a student at UiT, you are obliged to familiarize yourself with the current rules that apply to the use of aids during exams, as well as rules for source use and citation. In the case of violation of these rules, you may be suspected of cheating, or attempt at cheating. Cheating on an exam is considered a violation of academic integrity. Academic integrity(honesty) is about being clear in relation to which thoughts/reflection and work are one's own, and which are taken from others. Cheating is punishable by cancellation of exams and/or exclusion from university.
 
 You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art?p_document_id=684332
 
@@ -32,33 +37,34 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 * All lecture slides
 * Mandatory assignments
 
-| Lecture   	| Date		    | Subject	  | Lecturer | Readings |
-|-------------|-------------|-----------|----------|----------|
-| L1   | 21.08.23 | Introduction | Lars Ailo | Chapter 1  |
-| P1   | 21.08.23 | Precepts 1   | Lars Ailo | -          |
-| L2   | 25.08.23 | Instructions 1 | Lars Ailo | Chapter 2.1-2.10   |
-| L3   | 28.08.23 | Instructions 2 | Lars Ailo  | Chapter 2.11-2.23 |
-| L4   | 04.09.23 | Logic design   | Vi         | Appendix B |
-| L5   | 11.09.23 | Arithmetic for computers & floating point  | Lars Ailo | Chapter 3.1-3.11  |
-| P2   | 15.09.23 | Precepts 2   | Lars Ailo | -          |
-| L6   | 18.09.23 | Processor 1  | Lars Ailo | Chapter 4.1-4.4, 4.6-4.7 |
-| L7   | 22.09.23 | Processor 2  | Lars Ailo | Chapter 4.8-4.13, 4.15-4.17 |
-| P3   | 13.10.23 | Precepts 3   | Lars Ailo | -          |
-| L8   | 16.10.23 | Memory Hierarchy 1       | Vi         | Chapter 5 |
-| L9   | 20.10.23 | Memory Hierarchy 2       | Vi         | Chapter 5 |
-| L10  | 27.10.23 | Parallel Processors        | Vi         | Chapter 6 |
-| L11  | 03.11.23 | GPUs                       | Vi        | Appendix C |
-| Exam | 27.11.23 | School exam  | -         | Everything |            
+| Lecture | Date     | Subject                                     | Lecturer | Readings                    |
+| ------- | -------- | ------------------------------------------- | -------- | --------------------------- |
+| L1      | 19.08.24 | [Introduction]                              | VNNT     | Chapter 1                   |
+| P1      | 19.08.24 | [Precepts 1]                                | VNNT     | -                           |
+| L2      | 23.08.24 | [Instructions]                              | ØAMN     | 2.1-2.10                    |
+| L3      | 26.08.24 | Instructions continued                      | ØAMN     | Chapter 2.11-2.23           |
+| L4      | 02.09.24 | Logic design                                | VNNT     | Appendix B                  |
+| L5      | 09.09.24 | [Arithmetic for computers & floating point] | ØAMN     | Chapter 3.1-3.11            |
+| P2      | 09.09.24 | [Precepts 2]                                | ØAMN     | -                           |
+| L6      | 16.09.24 | [Processor]                                 | ØAMN     | Chapter 4.1-4.4, 4.6-4.7    |
+| L7      | 20.09.24 | Processor continued                         | ØAMN     | Chapter 4.8-4.13, 4.15-4.17 |
+| P3      | 23.09.24 | Memory Hierarchy 1                          | VNNT     | -                           |
+| L8      | 07.10.24 | Memory Hierarchy 2                          | VNNT     | Chapter 5                   |
+| L9      | 07.10.24 | Precepts 3                                  | VNNT     | Chapter 5                   |
+| L10     | 21.10.24 | Parallel Processors                         | VNNT     | Chapter 6                   |
+| L11     | 28.10.24 | GPUs                                        | PHH      | Appendix C                  |
+| L12     | 01.11.24 | Energy-efficient computing - VPUs           | PHH      | Slides                      |
+| Exam    | 27.11.24 | School exam                                 | -        | Everything                  |
 
 ## Mandatory assignments
 
-| Project                   |	Start           | Due             |
-|---------------------------|-----------------|-----------------|
-| Micobenchmark in assembly | 21.08.23, 13:15 | 15.09.23. 12:00 |
-| MIPS Simulator            | 15.09.23, 12:15 | 13.10.23, 12:00 |
-| Cache simulator           | 13.10.23, 12:15 | 10.11.23, 12:00 |
+| Project                   | Start           | Due             |
+| ------------------------- | --------------- | --------------- |
+| Micobenchmark in assembly | 19.08.24, 12:15 | 09.09.24, 12:00 |
+| MIPS Simulator            | 09.09.24, 12:15 | 07.10.24, 12:00 |
+| Cache simulator           | 07.10.24, 12:15 | 04.11.24, 12:00 |
 
-You will receive a GitHub Classroom link to each assignment in Discord. 
+You will receive a GitHub Classroom link to each assignment per email. 
 
 ## Exercises
 
