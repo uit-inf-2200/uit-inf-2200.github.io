@@ -64,3 +64,4 @@ You will receive a GitHub Classroom link to each assignment per email.
 ## Exercises
 
   1. TBA
+
