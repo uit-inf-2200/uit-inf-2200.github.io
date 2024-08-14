@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # INF-2200 *Computer Architecture and Organization*
 
 ## Administrative information
@@ -18,17 +14,16 @@ The Timeplan for the course is [here](https://tp.educloud.no/uit/timeplan/timepl
 * Vi Ngoc-Nha Tran (VNNT) <vi.tran@uit.no> (Lecturer, Course responsible)
 * Hoai Phuong Ha (PHH) <phuong.hoai.ha@uit.no> (Lecturer)
 * Øyvind Arne Moen Nohr (ØAMN) <oyvind.a.nohr@uit.no> (Lecturer)
-* (Teaching assistant) Room 
-* (Teaching assistant) Room
-* (Teaching assistant) Room
-* (Teaching assistant) Room
-* (Teaching assistant) Room 
+* S.K.E. Østby(TA) Room REALF A051, IT-lab
+* E.I. Kjersheim (Teaching assistant) Room REALF A055, IT-lab
+* E.B. Heines (Teaching assistant) Room REALF A051, IT-lab
+* K.H. Olsen (Teaching assistant) Room REALF A053, IT-lab
 
 **Cheating**
 
 As a student at UiT, you are obliged to familiarize yourself with the current rules that apply to the use of aids during exams, as well as rules for source use and citation. In the case of violation of these rules, you may be suspected of cheating, or attempt at cheating. Cheating on an exam is considered a violation of academic integrity. Academic integrity(honesty) is about being clear in relation to which thoughts/reflection and work are one's own, and which are taken from others. Cheating is punishable by cancellation of exams and/or exclusion from university.
 
-You can read more about plagiarism and cheating on: [uit.no](https://en.uit.no/sensor/art?p_document_id=684332)
+You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art?p_document_id=684332
 
 ## Lecture plan
 
