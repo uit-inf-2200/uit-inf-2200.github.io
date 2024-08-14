@@ -62,4 +62,5 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 You will receive a GitHub Classroom link to each assignment per email. 
 
 ## Exercises
-TBA
+
+  1. TBA
