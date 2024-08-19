@@ -49,7 +49,7 @@ You can read more about plagiarism and cheating on: https://en.uit.no/sensor/art
 | L10     | 21.10.24 | Parallel Processors                         | VNNT     | Chapter 6                   |
 | L11     | 28.10.24 | GPUs                                        | PHH      | Appendix C                  |
 | L12     | 01.11.24 | Energy-efficient computing - VPUs           | PHH      | Slides                      |
-| Exam    | 27.11.24 | School exam                                 | -        | Everything                  |
+| Exam    | 03.12.24 | School exam                                 | -        | Everything                  |
 
 ## Mandatory assignments
 
