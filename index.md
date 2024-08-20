@@ -12,7 +12,7 @@ The Timeplan for the course is [here](https://tp.educloud.no/uit/timeplan/timepl
 
 **Staff:**
 * Vi Ngoc-Nha Tran (VNNT) <vi.tran@uit.no> (Lecturer, Course responsible)
-* Hoai Phuong Ha (PHH) <phuong.hoai.ha@uit.no> (Lecturer)
+* Hoai Phuong Ha (PHH) <phuong.hoai.ha@uit.no>, A017, (Lecturer)
 * Øyvind Arne Moen Nohr (ØAMN) <oyvind.a.nohr@uit.no> (Lecturer)
 * S.K.E. Østby(TA) Room REALF A051, IT-lab
 * E.I. Kjersheim (Teaching assistant) Room REALF A055, IT-lab
