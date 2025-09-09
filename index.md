@@ -40,7 +40,7 @@ You can read more about plagiarism and cheating on: [https://en.uit.no/regelverk
 | L5      | Fri. 29.08.25 | Instructions 2 | Lars Ailo | 2.11 - 2.23 |
 | L6      | Fri. 05.09.25 | Logic design | Vi | Appendix B |
 | P2      | Mon. 15.09.25 | Project 2 precepts | Lars Ailo | None |
-| L7      | Mon. 22.09.25 | Arithmetic for computers & floating point | Lars Ailo | 3.1 - 3.11 |
+| L7      | Mon. 15.09.25 | Arithmetic for computers & floating point | Lars Ailo | 3.1 - 3.11 |
 | L8      | Fri. 26.09.25 | Processor 1 | Lars Ailo | 4.1 - 4.4, 4.6, 4.7 |
 | L9      | Mon. 29.09.25 | Processor 2 | Lars Ailo | 4.8 - 4.13, 4.15 - 4.17 |
 | P3      | Mon. 13.10.25 | Project 3 precepts | Vi | None |
