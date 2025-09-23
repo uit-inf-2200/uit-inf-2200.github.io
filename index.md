@@ -62,4 +62,9 @@ You can read more about plagiarism and cheating on: [https://en.uit.no/regelverk
 
 You will receive a GitHub Classroom link to each assignment per email. 
 
+**Policy for late submission and resubmission of the mandatory assignments:**
+1. All assignments should be submitted (by pushing to GitHub) before the deadline. 
+2. The assignments are evaluated as pass or not pass.
+3. If you fail the assignment, you will be given (only) one opportunity to resubmit the assignment. 
+4. Late submissions are counted as failed 1st submission, and failed assignments can therefore not be submitted.
 
